@@ -1,14 +1,20 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+My name is Mikayla.
+I am a passionate, results-driven professional transitioning into the cloud technology industry.
+
+I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD, and Source Control.
+
+
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mikayla%20Pham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaylapham/)](https://www.linkedin.com/in/mikaylapham/)
+[![Medium Badge](https://img.shields.io/badge/Mikayla%20Pham-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@mikaylapham/)](https://medium.com/@mikaylapham/)
+[![Gmail Badge](https://img.shields.io/badge/-mikaylapham@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikaylapham@gmail.com)](mailto:mikaylapham@gmail.com)
 
 ## ⚡ Technologies
 
